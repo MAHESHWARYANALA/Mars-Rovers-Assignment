@@ -38,8 +38,7 @@ Test Input:
  1 2 N
  LMLMLMLMM
  3 3 E
- LMLMLMLMM
-
+ MMRMMRMRRM
 Expected Output:
 
  1 3 N
